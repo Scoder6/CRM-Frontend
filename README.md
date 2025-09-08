@@ -4,7 +4,7 @@ A modern React CRM application built with TypeScript and Tailwind CSS.
 
 ## Live Demo
 
-[Deployed Link](https://your-deployed-link.com) - *Update this link after deployment*
+[Deployed Link](https://your-deployed-link.com) - *Live Link of the project*
 
 ## Setup
 
@@ -15,7 +15,7 @@ npm install
 
 2. Create `.env` file:
 ```env
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=http://localhost:5000/api #add your backend url instead 
 ```
 
 3. Start the development server:
