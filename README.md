@@ -4,7 +4,7 @@ A modern React CRM application built with TypeScript and Tailwind CSS.
 
 ## Live Demo
 
-[Deployed Link](https://your-deployed-link.com) - *Live Link of the project*
+[Deployed Link](https://crm-frontend-two-psi.vercel.app/) - *Live Link of the project*
 
 ## Setup
 
